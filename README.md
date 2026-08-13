@@ -66,15 +66,15 @@ The worker then successfully joined the cluster using the new token.
 
 ### Two-Node Cluster Ready
 
-![Two-Node Cluster](cluster-nodes-ready.png)
+![Two-Node Cluster](cluster-nodes-ready.png.png)
 
 ### Nginx Deployment
 
-![Nginx Deployment](nginx-deployment.png)
+![Nginx Deployment](nginx-deployment.png.png)
 
 ### Nginx Pod Running on Worker Node
 
-![Nginx Pod](nginx-pod-running.png)
+![Nginx Pod](nginx-pod-running.png.png)
 
 Kubernetes fundamentals, Linux administration, kubeadm, kubelet, kubectl, CRI-O, Calico CNI, container networking, deployments, pods, and basic Kubernetes troubleshooting.
 
