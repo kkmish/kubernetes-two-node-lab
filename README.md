@@ -62,6 +62,20 @@ The worker then successfully joined the cluster using the new token.
 
 ## Skills Practiced
 
+## Screenshots
+
+### Two-Node Cluster Ready
+
+![Two-Node Cluster](cluster-nodes-ready.png)
+
+### Nginx Deployment
+
+![Nginx Deployment](nginx-deployment.png)
+
+### Nginx Pod Running on Worker Node
+
+![Nginx Pod](nginx-pod-running.png)
+
 Kubernetes fundamentals, Linux administration, kubeadm, kubelet, kubectl, CRI-O, Calico CNI, container networking, deployments, pods, and basic Kubernetes troubleshooting.
 
 > This is a learning/lab project intended to demonstrate basic hands-on familiarity with Kubernetes rather than production Kubernetes administration.
